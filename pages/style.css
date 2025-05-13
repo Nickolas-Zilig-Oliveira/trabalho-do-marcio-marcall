@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p1/10511909-luxo-aquarela-abstrato-fundo-azul-aquarela-abstrato-fundo-gratis-foto.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+img{
+    width: 570px;
+    height: auto;
+}
+a{
+    font-size: 40px;
+}
